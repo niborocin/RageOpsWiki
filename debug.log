@@ -1,0 +1,3 @@
+[0726/235929.954:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Zugriff verweigert (0x5)
+[0726/235929.966:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Die Pipe wurde beendet. (0x6D)
+[0726/235929.968:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Zugriff verweigert (0x5)
